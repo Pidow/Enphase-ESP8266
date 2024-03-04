@@ -10,17 +10,18 @@ Track the solar production and electric consumption.
 *   NONE
 
 ## FIRST VERSION: less 10€
+
 ![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)
+
 *   WEMOS BASED ESP8266
 *   Oled screen 64x48 (0.66)
 
 ## How it's work:
-First, you must generate your Gateway password using Enphasepassword.ino, you can find your Gateway serial number on toolkit app (System->system device -> gateway)
-
-![image](https://github.com/Pidow/Envoy-ESP8266/assets/18301164/a5055bed-cee4-4a3d-982c-e04fc5757f94)
-
-In second time, you can replace information (wifi pass,envoy pass...), upload to ESP8266.
+First, install ESP 8266 parameter in arduino IDE
+You must generate your Gateway password using Enphasepassword.ino.
+In second time, you can replace information (wifi pass,envoy pass...), upload software to ESP8266.
 I added the possibility to turn off the screen the night using var hourstart, hourstop.
+
 The system is ready !
 
 ## Description
