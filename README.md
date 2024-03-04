@@ -10,7 +10,7 @@ Track the solar production and electric consumption.
 *   NONE
 
 ## FIRST VERSION: less 10€
-![SCREENLOGO](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/Description.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)
 *   WEMOS BASED ESP8266
 *   Oled screen 64x48 (0.66)
 
