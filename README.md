@@ -49,6 +49,8 @@ Motor support:
 
 ## How it's work:
 First, you must generate your Gateway password using Enphasepassword.ino, in second time, you can replace information (wifi pass,envoy pass...)
+![image](https://github.com/Pidow/Envoy-ESP8266/assets/18301164/a5055bed-cee4-4a3d-982c-e04fc5757f94)
+
 I added the possibility to turn off the screen the night using var hourstart, hourstop.
 The system is ready !
 
