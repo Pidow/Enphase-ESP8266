@@ -4,6 +4,7 @@
 
 TARGET:
 Display Envoy gateway information trough Wifi.
+Track the solar production and electric consumption.
 
 ### VERSION HISTORY
 *   NONE
