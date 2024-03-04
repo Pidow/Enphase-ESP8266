@@ -15,6 +15,7 @@ Display Envoy gateway information trough Wifi.
 
 ## How it's work:
 First, you must generate your Gateway password using Enphasepassword.ino, you can find your Gateway serial number on toolkit app (System->system device -> gateway)
+
 ![image](https://github.com/Pidow/Envoy-ESP8266/assets/18301164/a5055bed-cee4-4a3d-982c-e04fc5757f94)
 
 In second time, you can replace information (wifi pass,envoy pass...), upload to ESP8266.
@@ -22,7 +23,7 @@ In second time, you can replace information (wifi pass,envoy pass...), upload to
 ## Description
 
 Overview.
-![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg)
+![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)]
 
 PRoDUCTION INFORMATION
 ![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/DBG%20MODE.jpg?raw=true)
