@@ -19,6 +19,8 @@ First, you must generate your Gateway password using Enphasepassword.ino, you ca
 ![image](https://github.com/Pidow/Envoy-ESP8266/assets/18301164/a5055bed-cee4-4a3d-982c-e04fc5757f94)
 
 In second time, you can replace information (wifi pass,envoy pass...), upload to ESP8266.
+I added the possibility to turn off the screen the night using var hourstart, hourstop.
+The system is ready !
 
 ## Description
 
@@ -43,19 +45,10 @@ Connection for the Servomotor MG995
 
 
 ## 3D PRINT
-Motor support:
-![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/Servo%20motor%203D%20print%20support.jpg?raw=true)
-
-1/2 wheel
-![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/Wheel%203D%20print.jpg?raw=true)
+SCREEN PROTECTION:
+![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/3d%20print.jpg?raw=true)
 
 
-
-
-
-
-I added the possibility to turn off the screen the night using var hourstart, hourstop.
-The system is ready !
 
 Note:
 No RTC need, the system is connect to Network Time Protocol.
