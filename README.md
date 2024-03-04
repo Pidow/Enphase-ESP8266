@@ -23,9 +23,9 @@ In second time, you can replace information (wifi pass,envoy pass...), upload to
 ## Description
 
 Overview.
-![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)]
+![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)
 
-PRoDUCTION INFORMATION
+PRODUCTION INFORMATION
 ![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/DBG%20MODE.jpg?raw=true)
 
 CONSUMPTION INFORMATION
