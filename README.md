@@ -13,6 +13,7 @@ Track the solar production and electric consumption.
 
 ![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)
 
+Overview:
 *   WEMOS BASED ESP8266
 *   Oled screen 64x48 (0.66)
 
@@ -25,9 +26,6 @@ I added the possibility to turn off the screen the night using var hourstart, ho
 The system is ready !
 
 ## Description
-
-Overview.
-![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)
 
 PRODUCTION INFORMATION
 ![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/DBG%20MODE.jpg?raw=true)
