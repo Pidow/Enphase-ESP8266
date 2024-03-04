@@ -34,18 +34,9 @@ CONSUMPTION INFORMATION
 ![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/BUTTON%20ACTION.jpg?raw=true)
 
 
-## CONNECTION
-![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/digispark%20pro.png?raw=true)
-
-Connection for the digispark pro
-![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/digispark%20pro%20connections&.jpg?raw=true)
-
-Connection for the Servomotor MG995
-![FIRSTVERSION](https://github.com/Pidow/ChickenDoor/blob/master/4.Ephemeris%20version%20with%20DIGISPARK%20PRO/1.Assy%20view/MG995.png?raw=true)
-
-
 ## 3D PRINT
 SCREEN PROTECTION:
+
 ![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/3d%20print.jpg?raw=true)
 
 
