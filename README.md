@@ -1,6 +1,7 @@
 # Envoy ESP8266
 
 ![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/defaut.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/Picture1.gif?raw=true)
 
 TARGET:
 Display Envoy gateway information trough Wifi.
