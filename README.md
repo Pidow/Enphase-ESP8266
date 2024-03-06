@@ -7,7 +7,7 @@ TARGET:
 Display Envoy gateway information trough Wifi.
 Track the solar production and electric consumption.
 
-### VERSION HISTORY
+## VERSION HISTORY
 *   NONE
 
 ## FIRST VERSION: less 10€
@@ -28,13 +28,13 @@ The system is ready !
 
 ## Description
 
-PRODUCTION INFORMATION
+### PRODUCTION INFORMATION
 
 ![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/prod1.jpg?raw=true)
 ![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/prod2.png?raw=true)
 
 
-CONSUMPTION INFORMATION
+###CONSUMPTION INFORMATION
 
 ![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/conso1.jpg?raw=true)
 ![image](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/conso2.png?raw=true)
@@ -48,7 +48,7 @@ SCREEN PROTECTION:
 
 
 
-Note:
+## Note:
 No RTC need, the system is connect to Network Time Protocol.
 
 > I'm available if any question.
