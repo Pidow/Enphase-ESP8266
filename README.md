@@ -10,7 +10,7 @@ Track the solar production and electric consumption.
 ## VERSION HISTORY
 *   NONE
 
-## FIRST VERSION: less 10€
+## FIRST VERSION: less 6€
 
 ![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/overview.jpg?raw=true)
 
